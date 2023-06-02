@@ -1,0 +1,9 @@
+Tornillo
+5214A 0.1
+5000
+Tuerca
+6514E 0.15
+2500
+Martillo
+6535RT 10.5
+20

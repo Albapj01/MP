@@ -1,0 +1,8 @@
+
+PROJECT_NAME = Ejercicicio completo micro 1
+
+OUTPUT_LANGUAGE = Spanish
+
+SOURCE_BROWSER = YES
+
+GENERATE_LATEX = NO
